@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ I working as FontEnd developer<br>📚 I'm currently learning Vue</p><div align="center">
+<p align="left">✨ I working as FrontEnd developer<br>📚 I'm currently learning Vue</p><div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
